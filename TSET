@@ -72,7 +72,7 @@ http://119.59.125.74/stream/totnew.php?channel_id=78f57ebcf6064b308d75208a207569
 http://119.59.125.74/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde&.m3u
 #EXTINF:-1 tvg-id="36" tvg-logo-small="http://thaiip.tv/tvlogo2/36.png" tvg-logo="http://thaiip.tv/tvlogo2/36.png" tvg-chno="36" group-title="THAI Digital TV" tvg-name="PPTV",PPTV HD
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-id="37" tvg-logo-small="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo-370x277.png",Major
+#EXTINF:-1 tvg-id="37" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo-370x277.png",Major
 https://www.livedoomovies.com/02_MixMajor_480p/chunklist.m3u8
 
 
