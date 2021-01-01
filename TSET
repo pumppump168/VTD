@@ -72,7 +72,8 @@ http://119.59.125.74/stream/totnew.php?channel_id=78f57ebcf6064b308d75208a207569
 http://119.59.125.74/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde&.m3u
 #EXTINF:-1 tvg-id="36" tvg-logo-small="http://thaiip.tv/tvlogo2/36.png" tvg-logo="http://thaiip.tv/tvlogo2/36.png" tvg-chno="36" group-title="THAI Digital TV" tvg-name="PPTV",PPTV HD
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
-
+#EXTINF:-1 tvg-id="37" tvg-logo-small="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo-370x277.png",Major
+https://www.livedoomovies.com/02_MixMajor_480p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
@@ -309,13 +310,13 @@ http://stream.atr.ua/lale//live/index.m3u8
 
 
 
-#EXTINF:-1 group-title="sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", beIN Sports HD1
+#EXTINF:-1 group-title="Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", beIN Sports HD1
 http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
-#EXTINF:-1 group-title="sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", beIN Sports HD1
+#EXTINF:-1 group-title="Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", beIN Sports HD1
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", beIN Sports HD2
+#EXTINF:-1 group-title="Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", beIN Sports HD2
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="sport"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxN7UHkpRXSzlBlG9hwHHnLs8vtNux_NQJ7A&usqp=CAU", T-sport
+#EXTINF:-1 group-title="Sports"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxN7UHkpRXSzlBlG9hwHHnLs8vtNux_NQJ7A&usqp=CAU", T-sport
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png", Nat GEO Wild
 https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
@@ -345,6 +346,5 @@ https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_HITS_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz18561hJuKkby14EdkG5MGDOoh2fdhzIdg&usqp=CAU",HIT MOVIE
 https://www.livedoomovies.com/02_HITSMOVIE_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="37" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo-370x277.png",Major
-https://www.livedoomovies.com/02_MixMajor_480p/chunklist.m3u8
+
 
